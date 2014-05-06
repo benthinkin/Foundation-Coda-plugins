@@ -20,6 +20,7 @@ These Markdown-aware plugins for Coda 2 help you make [Foundation](http://founda
 - [Tabs](http://foundation.zurb.com/docs/components/tabs.html)
 - [Top bar](http://foundation.zurb.com/docs/components/topbar.html)
 
+**See video demos at [benthinkin.net](http://benthinkin.net/0130-coda-plugins)**
 
 # Requirements
 
